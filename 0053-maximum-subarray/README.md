@@ -30,6 +30,11 @@
 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+#Sources 
+##Visual:
+https://leetcode.com/problems/maximum-average-subarray-i/solutions/3532127/py3-beginner-friendly-with-details-and-explanation
+##Code:
+https://leetcode.com/problems/maximum-average-subarray-i/solutions/4695114/easy-and-simple-basic-sliding-window-93-beats
 	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
 
