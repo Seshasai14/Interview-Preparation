@@ -30,13 +30,16 @@
 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
-#Sources 
-##Visual:
-https://leetcode.com/problems/maximum-average-subarray-i/solutions/3532127/py3-beginner-friendly-with-details-and-explanation
-##Code:
-https://leetcode.com/problems/maximum-average-subarray-i/solutions/4695114/easy-and-simple-basic-sliding-window-93-beats
 	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.</p>
+
+#Sources 
+
+##Visual:
+https://leetcode.com/problems/maximum-average-subarray-i/solutions/3532127/py3-beginner-friendly-with-details-and-explanation
+
+##Code:
+https://leetcode.com/problems/maximum-average-subarray-i/solutions/4695114/easy-and-simple-basic-sliding-window-93-beats
