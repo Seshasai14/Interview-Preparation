@@ -41,4 +41,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seshasai14/Interview-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Seshasai14/Interview-Preparation/tree/master/0125-valid-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Seshasai14/Interview-Preparation/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
