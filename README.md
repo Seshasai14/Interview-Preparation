@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Seshasai14/Interview-Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/Seshasai14/Interview-Preparation/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Seshasai14/Interview-Preparation/tree/master/0643-maximum-average-subarray-i) |
+| [0890-lemonade-change](https://github.com/Seshasai14/Interview-Preparation/tree/master/0890-lemonade-change) |
 | [2350-find-closest-number-to-zero](https://github.com/Seshasai14/Interview-Preparation/tree/master/2350-find-closest-number-to-zero) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Seshasai14/Interview-Preparation/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Seshasai14/Interview-Preparation/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Seshasai14/Interview-Preparation/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
